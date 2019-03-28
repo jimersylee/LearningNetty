@@ -1,4 +1,4 @@
-package dev.geekhub.LearningNetty.echoClient;
+package dev.geekhub.LearningNetty.EchoClient;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
